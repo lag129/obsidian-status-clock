@@ -16,9 +16,14 @@
       "ES5",
       "ES6",
       "ES7"
-    ]
+    ],
+    "strict": true,
+    "strictPropertyInitialization": false,
+    "jsx": "react",
+    "allowSyntheticDefaultImports": true
   },
   "include": [
-    "**/*.ts"
+    "**/*.ts",
+    "**/*.tsx"
   ]
 }
