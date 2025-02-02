@@ -1,6 +1,6 @@
 {
 	"name": "obsidian-status-clock",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"description": "Display the clock in Obsidian's status bar.",
 	"main": "main.js",
 	"scripts": {
