@@ -3,7 +3,7 @@
 	"name": "Status Clock",
 	"version": "0.0.1",
 	"minAppVersion": "1.7.7",
-	"description": "Display the current time in the status bar.",
+	"description": "Display the clock in Obsidian's status bar.",
 	"author": "lag129",
 	"authorUrl": "https://github.com/lag129",
 	"isDesktopOnly": true
