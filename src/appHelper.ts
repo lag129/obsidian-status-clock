@@ -11,7 +11,7 @@ export class AppHelper {
   private unsafeApp: App & UnsafeAppInterface;
 
   constructor(app: App) {
-    this.unsafeApp = app as any;
+    this.unsafeApp = app as App & UnsafeAppInterface;
   }
 
   async loadFile(path: string): Promise<string> {
