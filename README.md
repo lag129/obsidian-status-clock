@@ -2,7 +2,7 @@
 
 This plugin displays the clock in Obsidian's status bar.
 
-![obsidian-status-clock](https://github.com/user-attachments/assets/73e98d2b-0832-440f-9844-1b6f3c434e8d)
+![obsidian-status-clock](https://github.com/user-attachments/assets/fa4db122-7e05-4186-a430-c2642189fa85)
 
 ## ✨ Features
 - Display the current time in the status bar
